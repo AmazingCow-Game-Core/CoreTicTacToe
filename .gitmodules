@@ -1,0 +1,6 @@
+[submodule "lib/CoreGame"]
+	path = lib/CoreGame
+	url = https://github.com/AmazingCow-Game-Core/CoreGame
+[submodule "lib/CoreRandom"]
+	path = lib/CoreRandom
+	url = https://github.com/AmazingCow-Game-Core/CoreRandom

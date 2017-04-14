@@ -1,3 +1,5 @@
+#ifdef CORE_TICTACTOE_TEST_GAME
+
 #include <iostream>
 #include "CoreTicTacToe.h"
 
@@ -69,3 +71,5 @@ int main()
      }
 
 }
+
+#endif //CORE_TICTACTOE_TEST_GAME
